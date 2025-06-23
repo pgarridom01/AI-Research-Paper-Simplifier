@@ -50,8 +50,10 @@
 3. Ask **custom questions** about the paper
 4. Download the full simplified report
 ---
-Try it Out...🚀 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-STREAMLIT-APP-LINK)
----
+## 🚀 Try it Out
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-research-paper-simplifier-cahvchbuaph2mtrvx7wd6n.streamlit.app/)
+
 ## ⚙️ Tech Stack
 
 - **Frontend:** Streamlit  
